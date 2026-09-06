@@ -179,7 +179,7 @@ Bhushan@sovereign:~$ cat night.log
 
   "The cursor blinks like a heartbeat at 3AM.
    That's when the real systems are born."
-                                    — Bhushan Y
+                                    — B Shankar
 ```
 
 ---
@@ -214,7 +214,7 @@ Bhushan@sovereign:~$ cat night.log
 
 <a href="https://github.com/B-shankar8601"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=ff00ff" /></a>
 <a href="mailto:bshankar459459@gmail.com"><img src="https://img.shields.io/badge/Email-6600cc?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/BhuuX"><img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=ff00ff" /></a>
+<a href="https://www.linkedin.com/in/B shankarbt"><img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=ff00ff" /></a>
 
 <br/><br/>
 
@@ -222,6 +222,6 @@ Bhushan@sovereign:~$ cat night.log
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff66ff,30:ff00ff,65:6600cc,100:1a0030&text=Sovereign+Systems+%7C+Built+by+Bhushan+Y&fontColor=FFFFFF&fontSize=15&fontAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff66ff,30:ff00ff,65:6600cc,100:1a0030&text=Sovereign+Systems+%7C+Built+by+B+Shankar&fontColor=FFFFFF&fontSize=15&fontAlignY=68&animation=fadeIn" width="100%" />
 
 </div>
