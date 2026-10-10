@@ -75,7 +75,7 @@ const B Shankar: SovereignArchitect = {
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎓 ERP-SYSTEM </h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX%20ERP&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+        <a href="mailto:bshankar459459@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX%20ERP&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
           <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
         </a>
         <br/><br/>
@@ -218,7 +218,7 @@ Bhushan@sovereign:~$ cat night.log
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=4000&pause=3000&color=6600cc&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;END+OF+PROFILE+%7C+Bhushan+Y+—+Sovereign+Architect;Private+Repos+%3A+Request+Access+via+Email;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=4000&pause=3000&color=6600cc&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;END+OF+PROFILE+%7C+B+SHANKAR+—+Sovereign+Architect;Private+Repos+%3A+Request+Access+via+Email;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 
 <br/>
 
